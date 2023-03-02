@@ -1,0 +1,15 @@
+/Users/daisyomoikirodah/Projects/variable/variable/bin/Debug/net6.0/variable
+/Users/daisyomoikirodah/Projects/variable/variable/bin/Debug/net6.0/variable.deps.json
+/Users/daisyomoikirodah/Projects/variable/variable/bin/Debug/net6.0/variable.runtimeconfig.json
+/Users/daisyomoikirodah/Projects/variable/variable/bin/Debug/net6.0/variable.dll
+/Users/daisyomoikirodah/Projects/variable/variable/bin/Debug/net6.0/variable.pdb
+/Users/daisyomoikirodah/Projects/variable/variable/obj/Debug/net6.0/variable.csproj.AssemblyReference.cache
+/Users/daisyomoikirodah/Projects/variable/variable/obj/Debug/net6.0/variable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daisyomoikirodah/Projects/variable/variable/obj/Debug/net6.0/variable.AssemblyInfoInputs.cache
+/Users/daisyomoikirodah/Projects/variable/variable/obj/Debug/net6.0/variable.AssemblyInfo.cs
+/Users/daisyomoikirodah/Projects/variable/variable/obj/Debug/net6.0/variable.csproj.CoreCompileInputs.cache
+/Users/daisyomoikirodah/Projects/variable/variable/obj/Debug/net6.0/variable.dll
+/Users/daisyomoikirodah/Projects/variable/variable/obj/Debug/net6.0/refint/variable.dll
+/Users/daisyomoikirodah/Projects/variable/variable/obj/Debug/net6.0/variable.pdb
+/Users/daisyomoikirodah/Projects/variable/variable/obj/Debug/net6.0/variable.genruntimeconfig.cache
+/Users/daisyomoikirodah/Projects/variable/variable/obj/Debug/net6.0/ref/variable.dll
